@@ -1,5 +1,8 @@
 _repo: Geoffrey-s-victory-b-or-the-double-deception_70479
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70479-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheldon, Georgie, Mrs.
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/50374
     - https://en.wikipedia.org/wiki/Sarah_Elizabeth_Forbush_Downs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70479#Geoffrey-s-victory-b-or-the-double-deception
 gutenberg_issued: '2023-04-06'
 identifiers:
   gutenberg: '70479'
